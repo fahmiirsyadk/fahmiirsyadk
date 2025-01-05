@@ -1,7 +1,6 @@
 
 
-<img src="banner.jpg" width="100%">
-<br/>
+<img src="banner.jpg" style="width: 100%; height: 350px; object-fit: cover;">
 <img src="https://komarev.com/ghpvc/?username=fahmiirsyadk" alt="fahmiirsyadk" />
 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
