@@ -1,5 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=fahmiirsyadk" alt="fahmiirsyadk" />
+<img src="banner.png" alt="banner site faah.me" width="100%" />
 
 ```
 $ pfetch                                  
